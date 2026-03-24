@@ -30,11 +30,3 @@
 </p>
 
 ---
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DiogoSantosRocha/DiogoSantosRocha/output/github-contribution-grid-snake.svg" />
-</p>
-
----
