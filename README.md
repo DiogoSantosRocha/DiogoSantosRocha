@@ -2,16 +2,16 @@
 
 <p align="center">
   💻 Information Systems @ EACH-USP <br>
-  🚀 Backend • Data • High-Performance Systems
+  🚀 Backend • Data • Systems Auditing & Automation
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Information Systems student at EACH-USP  
-- 💼 Focused on Backend Engineering (Java) and Data  
+- 💼 Focused on Backend Engineering (Java and Python) and Data Analysis  
 - 📊 Interested in performance, scalability and system design  
-- 🏎️ Working on simulation projects (e.g. F1 wind tunnel)
+
 
 ---
 
